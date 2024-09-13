@@ -6,12 +6,11 @@ Welcome to my first GitHub repository! 🎉 This is where I document my journey 
 
 In this repository, I track my learning process and share the steps I’m taking to become a better Python programmer. It contains code examples, notes, and experiments that I've conducted. I primarily use **Google Colab** to run my scripts and explore new concepts.
 
-### Commit Counter 🔢
+### Contributions Counter 🔢
 
 ![GitHub Contributions](https://img.shields.io/github/contributors/Rsmiet/Udemy-bootcamp)
 
-
-Here you can see the number of commits I've made to this project, which motivates me to keep learning and adding new things every day!
+Here you can see the number of contributors to this project (including myself), which motivates me to keep learning and adding new things every day!
 
 ## Built With 🛠️
 
