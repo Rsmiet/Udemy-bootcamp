@@ -8,7 +8,7 @@ In this repository, I track my learning process and share the steps I’m taking
 
 ### Commit Counter 🔢
 
-![GitHub commit count](https://img.shields.io/github/commit-activity/y/Rsmiet/REPOSITORY)
+![GitHub commit count](https://img.shields.io/github/commit-activity/y/Rsmiet/Udemy-bootcamp)
 
 Here you can see the number of commits I've made to this project, which motivates me to keep learning and adding new things every day!
 
